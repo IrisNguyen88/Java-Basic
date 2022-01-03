@@ -5,4 +5,5 @@ public class Car {
     String License;
     int NumberOfWheels;
     int NumberOfSeats;
+    
 }
